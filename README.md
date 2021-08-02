@@ -7,8 +7,7 @@ The purpose of this analysis is to get more detail on how ridership varies among
 ### Totals by City Type
 [Totals by City Type Summary](Analysis/Totals_by_Type.png)
 <p>The leader in total rides, drivers, and fares is the urban city category, with suburban coming in second, and rural in third. This makes logical sense for total rides and drivers based on population density. There are more people in urban areas not only looking for rides, but also available for the driver pool. Urban cities leading the total fare category is a matter of scale more so than density, as the number of rides in urban areas far outpaces either suburban or rural areas.
-<p>While the total fares for each city type vary from week to week, they tend to stay in a $500 - $700 band, suggesting that overall demand is relatively consistent. [Weekly Total Fares by City Type](Analysis/Pyber_fare_summary.png)
-
+<p>While the total fares for each city type vary from week to week, they tend to stay in a $500 - $700 band, suggesting that overall demand is relatively consistent. 
 ### Averages by City Type
 [Averages by City Type Summary](Analysis/Averages_by_Type.png)
 <p>When you look at the average fare per ride, you find that the rural cities have the greatest value, followed by suburban and then urban. Again, this is a somewhat expected result, as the more rural an area gets, the more spread out things tend to be, which leads to a longer average ride.
